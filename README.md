@@ -9,4 +9,4 @@
 7. Implementation: I used many different Python imports such as Dash, Pandas, Plotly.express, and GraphDatabase. Of course, HTML, CSS, Bootstrap, and Python were also utilized. I also utilized all of the imports for the different database technologies.
 8. Database Techniques: I've implemented view by creating a SQL view that I can query from. I also created prepared statements where I was able to plug in a variable string for quick usage. Lastly, I implemented a stored procedure that retrieves the number of publications quickly.
 9. Extra-Credit Capabilities: N/A
-10. Contributions: N/A
+10. Contributions: Around 25 hours
