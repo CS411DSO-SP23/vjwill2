@@ -15,7 +15,7 @@ def getBarGraph1():
     # Neo4J Configuration here
     uri = "bolt://localhost:7687"
     user = "neo4j"
-    password = "Fractalterrain66"
+    password = "xxx"
     driver = GraphDatabase.driver(uri, auth=(user, password))
     database_name = "academicworld"
     with driver.session(database=database_name) as session:
